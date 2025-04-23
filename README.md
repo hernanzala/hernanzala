@@ -2,13 +2,6 @@
 
 ¡Bienvenido a mi perfil de GitHub! 🚀  
 
-## 🛠️ Tecnologías y habilidades  
-### 🌟 Lenguaje favorito:  
-![Kotlin](https://img.shields.io/badge/Kotlin-00599C?style=for-the-badge&logo=kotlin&logoColor=white)  
-- **Kotlin Multiplataforma**: Construyo aplicaciones para diferentes plataformas usando un único código base eficiente y elegante.  
-
-
-
 
 ## ✨ Un poco sobre mí  
 - 💻 Me apasiona el desarrollo de software mobile y la tecnología.  
