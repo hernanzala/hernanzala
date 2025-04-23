@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=30&pause=1000&width=435&lines=%F0%9F%91%8B+%C2%A1Hola!+Soy+Hern%C3%A1n...)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=30&pause=1000&center=true&width=435&lines=%F0%9F%91%8B+%C2%A1Hola!+Soy+Hern%C3%A1n...)](https://git.io/typing-svg)
 
 ¡Bienvenido a mi perfil de GitHub! 🚀  
 
